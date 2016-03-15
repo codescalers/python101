@@ -1,5 +1,7 @@
 # Codescalers Python101 project
 
+[![Join us on Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/codescalers/python101#)
+
 ## Setup
 
 Install the following:
